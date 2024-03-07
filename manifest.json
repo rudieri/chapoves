@@ -1,0 +1,10 @@
+{
+    "name": "Chapoves",
+    "version_number": "1.0.3",
+    "website_url": "",
+    "description": "Posteres de chaves e chapolin",
+    "dependencies": [
+      "BepInEx-BepInExPack-5.4.2100",
+      "femboytv-LethalPosters-1.2.0"
+    ]
+}
